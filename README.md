@@ -45,6 +45,10 @@ There will also be a *midterm self-evaluation* test; it is **optional**, and doe
 
 We may *require* an oral exam in doubtful cases or whenever necessary.
 
+## Past exams 📑 
+
+Exam is now project-only, but you can still find some past theoretical questions [here](https://drive.google.com/drive/folders/1GwyIw-6SqTEHHtjYCjcNogL7xa6ifeHj)
+
 ## Lectures 🗣️
 
 **Date** | **Topic** | **Reading** | **Code & Data**
