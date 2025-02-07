@@ -30,11 +30,11 @@ Due to the continuously evolving nature of the topic, there is no fixed textbook
 ## Grading 📊
 
 **Exam dates**
-- <s>23 June 2025</s>
-- <s>15 July 2025</s>
-- <s>04 September 2025</s>
-- <s>16 September 2025</s>
-- <s>23 January 2026</s>
+- 23 June 2025
+- 15 July 2025
+- 04 September 2025
+- 16 September 2025
+- 23 January 2026
 
 Evaluation proceeds according to the following steps:
 
