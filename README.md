@@ -53,5 +53,5 @@ Exam is now project-only, but you can still find some past theoretical questions
 
 **Date** | **Topic** | **Reading** | **Code & Data**
 ------------ | ------------- | ------------ | ------------
-Mon 4 Mar | 🌐 Introduction; Talking sense about data I | [slides](https://github.com/erodola/ML-s2-2025/raw/main/01_intro/01-intro.pdf) |
-Tue 5 Mar | 🔢 Talking sense about data II; Linear algebra revisited; Introduction to Python notebooks and NumPy | [slides](https://github.com/erodola/ML-s2-2025/raw/main/02_data/02-data.pdf) ; [linear algebra recap](https://github.com/erodola/ML-s2-2025/raw/main/02_data/03-linalg.pdf) ; [matrix notes](https://github.com/erodola/ML-s2-2025/raw/main/02_data/03b-matrix.pdf) |
+Mon 3 Mar | 🌐 Introduction; Talking sense about data I | [slides](https://github.com/erodola/ML-s2-2025/raw/main/01_intro/01-intro.pdf) |
+Tue 4 Mar | 🔢 Talking sense about data II; Linear algebra revisited; Introduction to Python notebooks and NumPy | [slides](https://github.com/erodola/ML-s2-2025/raw/main/02_data/02-data.pdf) ; [linear algebra recap](https://github.com/erodola/ML-s2-2025/raw/main/02_data/03-linalg.pdf) ; [matrix notes](https://github.com/erodola/ML-s2-2025/raw/main/02_data/03b-matrix.pdf) |
