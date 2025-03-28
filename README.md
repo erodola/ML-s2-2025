@@ -61,3 +61,5 @@ Mon 17 Mar | 📏 Linear regression and scikit-learn | | [![Open In Colab](https
 Tue 18 Mar | 📉 Regularization; Stochastic gradient descent | [slides 1](https://github.com/erodola/ML-s2-2025/raw/main/05_regularization/05-regularization.pdf) ; [slides 2](https://github.com/erodola/ML-s2-2025/raw/main/06_sgd/06-sgd.pdf) |
 Mon 24 Mar | 📉 Stochastic gradient descent |  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2025/blob/main/labs/03_SGD.ipynb)
 Tue 25 Mar | 🔁 Multi-layer perceptron and back-propagation | [slides](https://github.com/erodola/ML-s2-2025/raw/main/07_mlp/07-mlp.pdf) |
+Mon 31 Mar | 🔥 PyTorch and Deep Learning I |  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2025/blob/main/labs/04_PyTorch_and_DL.ipynb)
+Tue 01 Apr | 🔥 PyTorch and Deep Learning II |  |  _use yesterday's notebook_
