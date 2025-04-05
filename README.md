@@ -63,3 +63,5 @@ Mon 24 Mar | 📉 Stochastic gradient descent |  |  [![Open In Colab](https://co
 Tue 25 Mar | 🔁 Multi-layer perceptron and back-propagation | [slides](https://github.com/erodola/ML-s2-2025/raw/main/07_mlp/07-mlp.pdf) |
 Mon 31 Mar | 🔥 PyTorch and Deep Learning I |  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2025/blob/main/labs/04_PyTorch_and_DL.ipynb)
 Tue 01 Apr | 🔥 PyTorch and Deep Learning II |  |  _use yesterday's notebook_
+Mon 07 Apr | 👻 PCA, spectra, and low-rank approximations | [slides](https://github.com/erodola/ML-s2-2025/raw/main/08_pca/08-pca.pdf) |
+Tue 08 Apr | 👻 Principal Component Analysis |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2025/blob/main/labs/05_PCA.ipynb) [🦒](https://drive.google.com/drive/folders/1MOnQZmmbJrrLolskuHxdV5BhADioTgDm?usp=sharing) [😀](https://drive.google.com/drive/folders/1pVUvA06nO1Zku4Z-PsFl8zETvfbbHlP8?usp=sharing)
