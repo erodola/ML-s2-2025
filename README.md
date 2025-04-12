@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2024/2025, Mathematical Sciences for AI (SMIA)
 
 ## News 🗞️
+- **12/04/2025:** No lecture on April 21-22 due to **Easter holidays**.
 - **06/04/2025:** The theoretical lecture of **April 07 is cancelled** by Sapienza. Please **watch the recorded video lectures** as a replacement, links can be found below.
 - **07/02/2025:** The course website is online. Welcome to ML 2024/25! **The course will start on Mon 3rd March**.
 
@@ -68,3 +69,7 @@ Mon 07 Apr | 👻 PCA, spectra, and low-rank approximations | [slides](https://g
 Tue 08 Apr | 👻 Principal Component Analysis |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2025/blob/main/labs/05_PCA.ipynb) [🦒](https://drive.google.com/drive/folders/1MOnQZmmbJrrLolskuHxdV5BhADioTgDm?usp=sharing) [😀](https://drive.google.com/drive/folders/1pVUvA06nO1Zku4Z-PsFl8zETvfbbHlP8?usp=sharing)
 Mon 14 Apr | 🚀 Hackathon | *upcoming* |
 Tue 15 Apr | 🚀 Hackathon | *upcoming* |
+Mon 21 Apr | 🐇 **Easter holidays** |  |  
+Tue 22 Apr | 🐇 **Easter holidays** |  |  
+Mon 28 Apr | 🗺️ Manifold learning and dimensionality reduction | *upcoming* |
+Tue 29 Apr | 🗺️ MDS and t-SNE | | *upcoming* 
