@@ -67,7 +67,7 @@ Mon 31 Mar | 🔥 PyTorch and Deep Learning I |  |  [![Open In Colab](https://co
 Tue 01 Apr | 🔥 PyTorch and Deep Learning II |  |  _use yesterday's notebook_
 Mon 07 Apr | 👻 PCA, spectra, and low-rank approximations | [slides](https://github.com/erodola/ML-s2-2025/raw/main/08_pca/08-pca.pdf) [video SVD](https://drive.google.com/file/d/1QrY9nrWIB_V14pISnq1qvzdEPLj2tkKh/view?usp=drive_link) [video PCA](https://drive.google.com/file/d/1QykJzICwQF8ZMWjIemwFL0KrUqEzGz26/view?usp=drive_link) |
 Tue 08 Apr | 👻 Principal Component Analysis |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2025/blob/main/labs/05_PCA.ipynb) [🦒](https://drive.google.com/drive/folders/1MOnQZmmbJrrLolskuHxdV5BhADioTgDm?usp=sharing) [😀](https://drive.google.com/drive/folders/1pVUvA06nO1Zku4Z-PsFl8zETvfbbHlP8?usp=sharing)
-Mon 14 Apr | 🚀 Hackathon | *upcoming* |
+Mon 14 Apr | 🚀 Hackathon | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2025/blob/main/labs/hackathon/Hackathon_NameGen.ipynb) |
 Tue 15 Apr | 🚀 Hackathon | *upcoming* |
 Mon 21 Apr | 🐇 **Easter holidays** |  |  
 Tue 22 Apr | 🐇 **Easter holidays** |  |  
