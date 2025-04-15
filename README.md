@@ -9,9 +9,9 @@ Course material, 2nd semester a.y. 2024/2025, Mathematical Sciences for AI (SMIA
 
 ## Logistics 🧭
 
-**Lecturer:** Prof. Emanuele Rodolà (lastname AT di DOT uniroma1 DOT it)
+**Lecturer:** Prof. Emanuele Rodolà (rodola@di.uniroma1.it)
 
-**Assistants:** [Dr. Daniele Solombrino](https://github.com/dansolombrino/) (lastname AT di DOT uniroma1 DOT it)
+**Assistants:** [Dr. Daniele Solombrino](https://github.com/dansolombrino/) (solombrino@di.uniroma1.it)
 
 **When:** Mondays 10:00--13:00 and Tuesdays 8:00--11:00
 
