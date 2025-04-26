@@ -71,5 +71,5 @@ Mon 14 Apr | 🚀 Hackathon | | [![Open In Colab](https://colab.research.google.
 Tue 15 Apr | 🚀 Hackathon | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2025/blob/main/labs/hackathon/Hackathon-SoundGen.ipynb) |
 Mon 21 Apr | 🐇 **Easter holidays** |  |  
 Tue 22 Apr | 🐇 **Easter holidays** |  |  
-Mon 28 Apr | 🗺️ Manifold learning and dimensionality reduction | *upcoming* |
+Mon 28 Apr | 🗺️ Manifold learning and dimensionality reduction | [slides](https://github.com/erodola/ML-s2-2025/raw/main/09_mds_tsne/09-mds_tsne.pdf) |
 Tue 29 Apr | 🗺️ MDS and t-SNE | | *upcoming* 
