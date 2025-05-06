@@ -74,4 +74,4 @@ Tue 22 Apr | 🐇 **Easter holidays** |  |
 Mon 28 Apr | 🗺️ Manifold learning and dimensionality reduction | [slides](https://github.com/erodola/ML-s2-2025/raw/main/09_mds_tsne/09-mds_tsne.pdf) |
 Tue 29 Apr | 🗺️ MDS and t-SNE | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2025/blob/main/labs/06_MDS_tSNE.ipynb)
 Mon 05 May | 🛠️ Tools of the trade | [slides](https://github.com/erodola/ML-s2-2025/blob/main/99_toolset/DL-tools-of-the-trade.pdf) |
-Tue 06 May | 🔄 Notebook recap ; 🥷 Street fighting ML | _slides upcoming_ |
+Tue 06 May | 🔄 Notebook recap ; 🥷 Street fighting ML | [slides](https://github.com/erodola/ML-s2-2025/blob/main/10-street/10-street.pdf) |
