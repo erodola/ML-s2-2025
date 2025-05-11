@@ -76,3 +76,4 @@ Tue 29 Apr | 🗺️ MDS and t-SNE | | [![Open In Colab](https://colab.research.
 Mon 05 May | 🛠️ Tools of the trade | [slides](https://github.com/erodola/ML-s2-2025/blob/main/99_toolset/DL-tools-of-the-trade.pdf) |
 Tue 06 May | 🔄 Notebook recap ; 🥷 Street fighting ML | [slides](https://github.com/erodola/ML-s2-2025/blob/main/10-street/10-street.pdf) |
 Mon 12 May | 🌳 Ensemble methods | [slides](https://github.com/erodola/ML-s2-2025/raw/main/11_ensemble/11-ensemble.pdf) |
+Tue 13 May | 🌳 Ensemble methods |  | *upcoming*
