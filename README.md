@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2024/2025, Mathematical Sciences for AI (SMIA)
 
 ## News 🗞️
+- **13/05/2025:** The **list of projects** has been published. Scroll down for details.
 - **12/04/2025:** No lecture on April 21-22 due to **Easter holidays**.
 - **06/04/2025:** The theoretical lecture of **April 07 is cancelled** by Sapienza. Please **watch the recorded video lectures** as a replacement, links can be found below.
 - **07/02/2025:** The course website is online. Welcome to ML 2024/25! **The course will start on Mon 3rd March**.
@@ -43,9 +44,11 @@ Evaluation proceeds according to the following steps:
 - A project (**mandatory**, accounts for 100% of the final grade).
 - An oral exam (**optional**, grants from -3 to +3 points to the final grade).
 
-There will also be a *midterm self-evaluation* test; it is **optional**, and does not concur to the final grade.
-
 We may *require* an oral exam in doubtful cases or whenever necessary.
+
+You can find the **list of projects** in this [Google doc](https://docs.google.com/document/d/1yGEsrS05hNtMugV3R8Q2ZBw7KyZU3TRp5KFxwlvMqD0/edit?usp=sharing). Access is restricted to students with a @studenti.uniroma1.it email account; you must *request access* to the document upon clicking the link with the uniroma1 account.
+
+The 📄 template for submitting the project report is available [here](https://github.com/erodola/ML-s2-2025/raw/main/template.zip).
 
 ## Past exams 📑 
 
