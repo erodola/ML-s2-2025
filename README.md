@@ -81,6 +81,6 @@ Tue 06 May | 🔄 Notebook recap ; 🥷 Street fighting ML | [slides](https://gi
 Mon 12 May | 🌳 Ensemble methods | [slides](https://github.com/erodola/ML-s2-2025/raw/main/11_ensemble/11-ensemble.pdf) |
 Tue 13 May | 🌳 Ensemble methods |  | [🚢 Titanic challenge](https://www.kaggle.com/competitions/titanic) ; [🏠 House Prices challenge](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 Mon 19 May | 🗣️ Seminars |  |
-Tue 20 May | TBD |  |
+Tue 20 May | 🗣️ AMA Panel w/ Giorgio Strano and Donato Crisostomi |  |
 
 **End**
