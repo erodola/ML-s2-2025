@@ -35,7 +35,7 @@ Due to the continuously evolving nature of the topic, there is no fixed textbook
 **Exam dates**
 - ~23 June 2025~
 - ~15 July 2025 - *cutoff date 11 July*~
-- 04 September 2025 - *cutoff date 29 August*
+- ~04 September 2025 - *cutoff date 29 August*~
 - 16 September 2025 - *cutoff date 09 September*
 - 23 January 2026 - *cutoff date 16 January*
 
